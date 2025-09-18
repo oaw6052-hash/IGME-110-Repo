@@ -1,5 +1,6 @@
 # Video Games I need to 100%
 ***
+**Links to steam pages**
 ## Metroidvania
 1. [Hollowknight](https://store.steampowered.com/app/367520/Hollow_Knight/)
 2. [Hollowknight Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/)
