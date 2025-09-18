@@ -25,4 +25,4 @@
 [RIT] <https://www.rit.edu/>
 
 ### This is an image
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Windows 10!](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/win10-desktop-logo.png)
